@@ -1,0 +1,30 @@
+{
+  "name": "celo_fintech",
+  "version": "1.0.0",
+  "description": "simple payment method integrating celo in fintech app development",
+  "main": "celoWallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/thekhafre/celo_fintech.git"
+  },
+  "keywords": [
+    "celo",
+    "dapp",
+    "decentralize",
+    "smartcontract",
+    "nodejs",
+    "celocli"
+  ],
+  "author": "Oluwatobiloba Olajide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekhafre/celo_fintech/issues"
+  },
+  "homepage": "https://github.com/thekhafre/celo_fintech#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

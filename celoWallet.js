@@ -1,4 +1,3 @@
-
 const { ContractKit } = require('@celo/contractkit');
 const { newAccount } = require('@celo/account');
 async function createWallet() {
